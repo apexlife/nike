@@ -1,3 +1,4 @@
+/*
 function toggleClass(element, className){
     if (!element || !className){
         return;
@@ -15,4 +16,4 @@ function toggleClass(element, className){
 
 document.getElementById('toggle').addEventListener('click', function() {
     toggleClass(document.getElementById('overlay'), 'open');
-});
+});*/
