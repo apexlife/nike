@@ -132,4 +132,23 @@ typings/
 # dotenv environment variables file
 .env
 
+backup/
+.gitignore
+config.rb
 
+### Archive
+*.tar
+*.tar.*
+*.jar
+*.exe
+*.msi
+*.zip
+*.tgz
+*.log
+*.log.*
+*.sig
+*.rar
+*.7z
+
+pkg/
+src/
